@@ -147,7 +147,7 @@ section h2 {
     border: 1px solid #22d3ee;
     border-radius: 25px;
     color: #22d3ee;
-    text-decoration: none;
+    text-decoration: bold;
     font-size: 0.9rem;
     font-weight: 500;
 }
@@ -155,4 +155,5 @@ section h2 {
 .btn-cv:hover {
     background-color: #22d3ee;
     color: #020617;
+
 }
