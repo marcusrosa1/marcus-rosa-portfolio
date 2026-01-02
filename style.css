@@ -147,9 +147,9 @@ section h2 {
     border: 1px solid #22d3ee;
     border-radius: 25px;
     color: #22d3ee;
-    text-decoration: bold;
+    text-decoration: none;
     font-size: 0.9rem;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .btn-cv:hover {
@@ -157,6 +157,7 @@ section h2 {
     color: #020617;
 
 }
+
 
 
 
