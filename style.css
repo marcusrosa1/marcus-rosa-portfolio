@@ -149,7 +149,7 @@ section h2 {
     color: #22d3ee;
     text-decoration: bold;
     font-size: 0.9rem;
-    font-weight: 500;
+    font-weight: 500 bold;
 }
 
 .btn-cv:hover {
@@ -157,3 +157,4 @@ section h2 {
     color: #020617;
 
 }
+
